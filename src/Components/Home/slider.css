@@ -1,0 +1,16 @@
+.story{
+    display: flex;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    justify-content: center;
+    word-break: break-all;
+    object-fit: cover;
+}
+
+.story img{
+    width: 100%;
+    cursor: pointer;
+
+}
